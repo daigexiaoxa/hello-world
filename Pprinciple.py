@@ -8,3 +8,4 @@ def demo(a,b,c):
     d = math.sqrt(b**2-4*a*c)
     print(d)
 
+
